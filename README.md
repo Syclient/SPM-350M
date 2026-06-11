@@ -1,5 +1,10 @@
 # SPM-350M
 
+![Parameters](https://img.shields.io/badge/Parameters-348.7M-blue)
+![Architecture](https://img.shields.io/badge/Architecture-Decoder--Only-green)
+![License](https://img.shields.io/badge/License-Apache%202.0-orange)
+![Status](https://img.shields.io/badge/Status-Research-red)
+
 **SPM-350M** is a 350 million parameter decoder-only language model developed by **Syclient**.
 
 The model is designed for research, education, conversational AI, and efficient language model development. SPM-350M serves as the foundation of the Strategic Pretrained Model (SPM) family and represents Syclient's first large-scale language model project.
