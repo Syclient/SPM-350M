@@ -47,6 +47,12 @@ The training corpus was curated for research, conversational modeling, and gener
 
 ---
 
+## Model Weights
+
+The model weights are available on Hugging Face.
+
+Coming Soon.
+
 ## Intended Use
 
 SPM-350M is intended for:
